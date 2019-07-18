@@ -7,6 +7,7 @@ public class HellossR {
 		System.out.println("1231213213");
 		System.out.println("1231213213");
 		System.out.println("1231213213");
+		System.out.print("µÚÈýÐÐ");
 	}
 
 }
