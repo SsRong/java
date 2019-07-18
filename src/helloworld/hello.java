@@ -6,6 +6,8 @@ public class hello {
 		// TODO Auto-generated method stub
 		System.out.println("hello12");
 		System.out.println("conflict222");
+		System.out.println("ÎÒÏëÖÆÔì³åÍ»£¡");
+
 
 	}
 
